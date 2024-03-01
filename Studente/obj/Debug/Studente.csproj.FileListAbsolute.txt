@@ -1,0 +1,11 @@
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\bin\Debug\Studente.exe.config
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\bin\Debug\Studente.exe
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\bin\Debug\Studente.pdb
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\obj\Debug\Studente.csproj.AssemblyReference.cache
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\obj\Debug\Studente.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\obj\Debug\Studente.Form1.resources
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\obj\Debug\Studente.Properties.Resources.resources
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\obj\Debug\Studente.csproj.GenerateResource.cache
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\obj\Debug\Studente.csproj.CoreCompileInputs.cache
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\obj\Debug\Studente.exe
+C:\Users\hp 16-0006nl\OneDrive\Desktop\Visual Studio\4°E_Informatica\Studente\Studente\obj\Debug\Studente.pdb
